@@ -1,0 +1,8 @@
+Gerador de HASH
+
+Desenvolvimento de algoritmo para gerar vários tipos de HASHs
+
+**Parâmetros de Entrada:**
+
+1. String a ser transformada
+2. Tipo de Hash usado para a geração

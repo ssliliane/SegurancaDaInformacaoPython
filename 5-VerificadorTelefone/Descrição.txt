@@ -1,0 +1,6 @@
+Verificador de Telefone
+
+Verifica a localidade de um número de telefone.
+
+Parâmentro de Entrada:
+-Número de telefone com código do país e de área
